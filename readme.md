@@ -15,6 +15,8 @@ Franziska Zerwas Business Analytics 17-18
 
 Francis Darby Business Analytics 17-18
 
+Marianne Buck Business Analytics 17-18
+
 ## Credits
 
 The gif of derivative was contributed by IkamusumeFan, wikipedia.org/wiki/File:Derivative_Gif.gif
